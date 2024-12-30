@@ -27,6 +27,11 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 #### Earth Science
 - [Nature 2019] Deep learning and process understanding for data-driven Earth system science ([Paper](https://www.nature.com/articles/s41586-019-0912-1))
 
+
+#### Chemical Engineering
+- [Nature 2020] Closed-loop optimization of fast-charging protocols for batteries with machine learning ([Paper](https://www.nature.com/articles/s41586-019-1687-0))
+
+
 #### Quantum Computing
 - [Nature 2019] Supervised learning with quantum-enhanced feature spaces ([Paper](https://www.nature.com/articles/s41586-019-0980-2))
 
