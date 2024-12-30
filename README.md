@@ -15,6 +15,9 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 #### Natural Language Processing
 - [Nature 2019] Unsupervised word embeddings capture latent knowledge from materials science literature ([Paper](https://www.nature.com/articles/s41586-019-1335-8))
 
+#### Large Langauge Model
+- [Nature 2023] Large language models encode clinical knowledge ([Paper](https://www.nature.com/articles/s41586-023-06291-2))
+
 
 #### Biology
 - [Nature 2020] Improved protein structure prediction using potentials from deep learning ([Paper](https://www.nature.com/articles/s41586-019-1923-7))
