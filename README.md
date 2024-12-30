@@ -12,6 +12,9 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 - [Nature 2019] Towards spike-based machine intelligence with neuromorphic computing ([Paper](https://www.nature.com/articles/s41586-019-1677-2))
 - [Nature 2020] Fully hardware-implemented memristor convolutional neural network ([Paper](https://www.nature.com/articles/s41586-020-1942-4))
 
+#### Natural Language Processing
+- [Nature 2019] Unsupervised word embeddings capture latent knowledge from materials science literature ([Paper](https://www.nature.com/articles/s41586-019-1335-8))
+
 
 #### Biology
 - [Nature 2020] Improved protein structure prediction using potentials from deep learning ([Paper](https://www.nature.com/articles/s41586-019-1923-7))
