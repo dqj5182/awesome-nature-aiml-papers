@@ -33,6 +33,10 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 - [Nature 2021] Skilful precipitation nowcasting using deep generative models of radar ([Paper](https://www.nature.com/articles/s41586-021-03854-z))
 
 
+#### Healthcare
+- [Nature 2021] Swarm Learning for decentralized and confidential clinical machine learning ([Paper](https://www.nature.com/articles/s41586-021-03583-3))
+
+
 #### Chemical Engineering
 - [Nature 2020] Closed-loop optimization of fast-charging protocols for batteries with machine learning ([Paper](https://www.nature.com/articles/s41586-019-1687-0))
 - [Nature 2020] Ultrafast machine vision with 2D material neural network image sensors ([Paper](https://www.nature.com/articles/s41586-020-2038-x))
