@@ -1,8 +1,6 @@
 # Awesome AI, ML Papers Published at Nature
 We list out AI (Artificial Intelligence), ML (Machine Learning) papers published at Nature journal.
 
-## Datasets
-
 ## Papers
 #### Programming Languages
 - [Nature 2020] Array programming with NumPy ([Paper](https://www.nature.com/articles/s41586-020-2649-2), [Code](https://github.com/numpy/numpy))
