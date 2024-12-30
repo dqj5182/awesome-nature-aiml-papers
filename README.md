@@ -35,6 +35,8 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 
 #### Healthcare
 - [Nature 2021] Swarm Learning for decentralized and confidential clinical machine learning ([Paper](https://www.nature.com/articles/s41586-021-03583-3))
+- [Nature 2022] Machine learning-aided engineering of hydrolases for PET depolymerization ([Paper](https://www.nature.com/articles/s41586-022-04599-z))
+- [Nature 2023] Foundation models for generalist medical artificial intelligence ([Paper](https://www.nature.com/articles/s41586-023-05881-4))
 
 
 #### Chemical Engineering
