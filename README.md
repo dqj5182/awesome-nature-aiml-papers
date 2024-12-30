@@ -9,6 +9,7 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 
 
 #### Biology
+- [Nature 2020] Improved protein structure prediction using potentials from deep learning ([Paper](https://www.nature.com/articles/s41586-019-1923-7))
 - [Nature 2024] Highly accurate protein structure prediction with AlphaFold ([Paper](https://www.nature.com/articles/s41586-021-03819-2), [Code](https://github.com/google-deepmind/alphafold))
 
 
@@ -18,4 +19,7 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 
 
 #### Gaming
+- [Nature 2016] Mastering the game of Go with deep neural networks and tree search ([Paper](https://www.nature.com/articles/nature16961))
+- [Nature 2017] Mastering the game of Go without human knowledge ([Paper](https://www.nature.com/articles/nature24270))
 - [Nature 2019] Grandmaster level in StarCraft II using multi-agent reinforcement learning ([Paper](https://www.nature.com/articles/s41586-019-1724-z))
+- [Nature 2020] Mastering Atari, Go, chess and shogi by planning with a learned model ([Paper](https://www.nature.com/articles/s41586-020-03051-4))
