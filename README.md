@@ -7,6 +7,9 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 #### Programming Languages
 - [Nature 2020] Array programming with NumPy ([Paper](https://www.nature.com/articles/s41586-020-2649-2), [Code](https://github.com/numpy/numpy))
 
+#### Model Architecture
+- [Nature 2020] https://www.nature.com/articles/s41586-020-1942-4 ([Paper](https://www.nature.com/articles/s41586-020-1942-4))
+
 
 #### Biology
 - [Nature 2020] Improved protein structure prediction using potentials from deep learning ([Paper](https://www.nature.com/articles/s41586-019-1923-7))
