@@ -8,8 +8,9 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 - [Nature 2020] Array programming with NumPy ([Paper](https://www.nature.com/articles/s41586-020-2649-2), [Code](https://github.com/numpy/numpy))
 
 #### Model Architecture
-- [Nature 2020] Fully hardware-implemented memristor convolutional neural network ([Paper](https://www.nature.com/articles/s41586-020-1942-4))
+- [Nature 2019] All-optical spiking neurosynaptic networks with self-learning capabilities ([Paper](https://www.nature.com/articles/s41586-019-1157-8))
 - [Nature 2019] Towards spike-based machine intelligence with neuromorphic computing ([Paper](https://www.nature.com/articles/s41586-019-1677-2))
+- [Nature 2020] Fully hardware-implemented memristor convolutional neural network ([Paper](https://www.nature.com/articles/s41586-020-1942-4))
 
 
 #### Biology
