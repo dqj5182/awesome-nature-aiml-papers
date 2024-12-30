@@ -30,7 +30,7 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 
 #### Earth Science
 - [Nature 2019] Deep learning and process understanding for data-driven Earth system science ([Paper](https://www.nature.com/articles/s41586-019-0912-1))
-- [Nature 2021] Skilful precipitation nowcasting using deep generative models of radar ([Paper)(https://www.nature.com/articles/s41586-021-03854-z))
+- [Nature 2021] Skilful precipitation nowcasting using deep generative models of radar ([Paper](https://www.nature.com/articles/s41586-021-03854-z))
 
 
 #### Chemical Engineering
