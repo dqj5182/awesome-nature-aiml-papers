@@ -36,6 +36,7 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 #### Chemical Engineering
 - [Nature 2020] Closed-loop optimization of fast-charging protocols for batteries with machine learning ([Paper](https://www.nature.com/articles/s41586-019-1687-0))
 - [Nature 2020] Ultrafast machine vision with 2D material neural network image sensors ([Paper](https://www.nature.com/articles/s41586-020-2038-x))
+- [Nature 2020] Inference in artificial intelligence with deep optics and photonics ([Paper](https://www.nature.com/articles/s41586-020-2973-6))
 
 
 #### Quantum Computing
