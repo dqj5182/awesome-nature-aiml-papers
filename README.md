@@ -1,5 +1,5 @@
 # Awesome AI, ML Papers Published at Nature
-We list out AI (Artificial Intelligence), ML (Machine Learning) papers published at [Nature journal](https://www.nature.com/).
+We list out AI (Artificial Intelligence), ML (Machine Learning) papers published at [Nature](https://www.nature.com/) journal.
 
 ## Papers
 #### Programming Languages
