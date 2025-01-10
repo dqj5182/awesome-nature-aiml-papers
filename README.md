@@ -47,6 +47,9 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 - [Nature 2020] Inference in artificial intelligence with deep optics and photonics ([Paper](https://www.nature.com/articles/s41586-020-2973-6))
 
 
+#### Robotics
+- [Nature 2024] Task-agnostic exoskeleton control via biological joint moment estimation ([Paper](https://www.nature.com/articles/s41586-024-08157-7))
+
 
 #### Quantum Computing
 - [Nature 2019] Supervised learning with quantum-enhanced feature spaces ([Paper](https://www.nature.com/articles/s41586-019-0980-2))
