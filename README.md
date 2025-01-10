@@ -33,6 +33,7 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 - [Nature 2019] Deep learning and process understanding for data-driven Earth system science ([Paper](https://www.nature.com/articles/s41586-019-0912-1))
 
 #### Healthcare
+- [Nature 2025] A vision–language foundation model for precision oncology ([Paper]()https://www.nature.com/articles/s41586-024-08378-w)
 - [Nature 2023] Foundation models for generalist medical artificial intelligence ([Paper](https://www.nature.com/articles/s41586-023-05881-4))
 - [Nature 2022] Machine learning-aided engineering of hydrolases for PET depolymerization ([Paper](https://www.nature.com/articles/s41586-022-04599-z))
 - [Nature 2021] Swarm Learning for decentralized and confidential clinical machine learning ([Paper](https://www.nature.com/articles/s41586-021-03583-3))
