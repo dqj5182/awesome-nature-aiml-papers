@@ -2,6 +2,9 @@
 We list out AI (Artificial Intelligence), ML (Machine Learning) papers published at [Nature](https://www.nature.com/) journal.
 
 ## Papers
+#### General Learning
+- [Nature 2024] AI models collapse when trained on recursively generated data ([Paper](https://www.nature.com/articles/s41586-024-07566-y))
+
 #### Programming Languages
 - [Nature 2020] Array programming with NumPy ([Paper](https://www.nature.com/articles/s41586-020-2649-2), [Code](https://github.com/numpy/numpy))
 
