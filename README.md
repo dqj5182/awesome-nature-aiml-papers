@@ -55,7 +55,7 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 
 
 #### Autonomous Driving
-- [Nature 2024] Low-latency automotive vision with event cameras
+- [Nature 2024] Low-latency automotive vision with event cameras ([Paper](https://www.nature.com/articles/s41586-024-07409-w))
 
 
 #### Quantum Computing
