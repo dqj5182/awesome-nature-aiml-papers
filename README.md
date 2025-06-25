@@ -54,6 +54,7 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 - [Nature 2024] Task-agnostic exoskeleton control via biological joint moment estimation ([Paper](https://www.nature.com/articles/s41586-024-08157-7))
 - [Nature 2024] Experiment-free Exoskeleton Assistance via Learning in Simulation
 - [Nature 2023] Champion-level Drone Racing using Deep Reinforcement Learning ([Paper](https://www.nature.com/articles/s41586-023-06419-4))
+- [Nature 2012] Reach and grasp by people with tetraplegia using a neurally controlled robotic arm
 
 
 #### Autonomous Driving
