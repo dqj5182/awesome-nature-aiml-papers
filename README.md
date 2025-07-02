@@ -60,6 +60,7 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 
 #### Autonomous Driving
 - [Nature 2024] Low-latency automotive vision with event cameras ([Paper](https://www.nature.com/articles/s41586-024-07409-w))
+- [Nature 2022] Outracing champion Gran Turismo drivers with deep reinforcement learning ([Paper](https://www.nature.com/articles/s41586-021-04357-7))
 
 
 #### Quantum Computing
