@@ -72,3 +72,8 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 - [Nature 2019] Grandmaster level in StarCraft II using multi-agent reinforcement learning ([Paper](https://www.nature.com/articles/s41586-019-1724-z))
 - [Nature 2017] Mastering the game of Go without human knowledge ([Paper](https://www.nature.com/articles/nature24270))
 - [Nature 2016] Mastering the game of Go with deep neural networks and tree search ([Paper](https://www.nature.com/articles/nature16961))
+
+
+
+#### Human-Computer Interaction
+- [Nature 2025] A generic non-invasive neuromotor interface for human-computer interaction
