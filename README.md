@@ -5,6 +5,7 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 #### General Learning
 - [Nature 2024] AI models collapse when trained on recursively generated data ([Paper](https://www.nature.com/articles/s41586-024-07566-y))
 - [Nature 2023] Scientific discovery in the age of artificial intelligence ([Paper](https://www.nature.com/articles/s41586-023-06221-2))
+- [Nature 2015] Human-level control through deep reinforcement learning ([Paper](https://www.nature.com/articles/nature14236)
 - [Nature 2000] Error and attack tolerance of complex networks ([Paper](https://www.nature.com/articles/35019019))
 
 #### Programming Languages
@@ -25,6 +26,7 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 
 #### Biology
 - [Nature 2025] A foundation model of transcription across human cell types ([Paper](https://www.nature.com/articles/s41586-024-08391-z))
+- [Nature 2024] Accurate structure prediction of biomolecular interactions with AlphaFold 3 ([Paper](https://www.nature.com/articles/s41586-024-07487-w))
 - [Nature 2024] Determining structures of RNA conformers using AFM and deep neural networks ([Paper](https://www.nature.com/articles/s41586-024-07559-x))
 - [Nature 2024] Highly accurate protein structure prediction with AlphaFold ([Paper](https://www.nature.com/articles/s41586-021-03819-2), [Code](https://github.com/google-deepmind/alphafold))
 - [Nature 2020] Improved protein structure prediction using potentials from deep learning ([Paper](https://www.nature.com/articles/s41586-019-1923-7))
