@@ -20,6 +20,7 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 - [Nature 2019] Unsupervised word embeddings capture latent knowledge from materials science literature ([Paper](https://www.nature.com/articles/s41586-019-1335-8))
 
 #### Large Langauge Model
+- [Nature 2025] Age and gender distortion in online media and large language models ([Paper](https://www.nature.com/articles/s41586-025-09581-z))
 - [Nature 2025] DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning ([Paper](https://www.nature.com/articles/s41586-025-09422-z), [Code](https://github.com/deepseek-ai/DeepSeek-R1))
 - [Nature 2023] Large language models encode clinical knowledge ([Paper](https://www.nature.com/articles/s41586-023-06291-2))
 
