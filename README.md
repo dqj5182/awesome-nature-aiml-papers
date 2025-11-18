@@ -83,3 +83,6 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 
 #### Human-Computer Interaction
 - [Nature 2025] A generic non-invasive neuromotor interface for human-computer interaction
+
+#### Human Pose Estimation
+- [Nature 2025] Fair human-centric image dataset for ethical AI benchmarking ([Paper](https://www.nature.com/articles/s41586-025-09716-2))
