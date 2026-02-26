@@ -3,6 +3,7 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 
 ## Papers
 #### General Learning
+- [Nature 2024] AlphaGeometry: An Olympiad-level AI system for geometry
 - [Nature 2024] AI models collapse when trained on recursively generated data ([Paper](https://www.nature.com/articles/s41586-024-07566-y))
 - [Nature 2023] Scientific discovery in the age of artificial intelligence ([Paper](https://www.nature.com/articles/s41586-023-06221-2))
 - [Nature 2015] Human-level control through deep reinforcement learning ([Paper](https://www.nature.com/articles/nature14236)
